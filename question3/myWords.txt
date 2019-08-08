@@ -1,0 +1,2 @@
+Hello I am just random words for testing my ability with nodeJs and using fs library.
+Abdala Alsqoor sending his greeting.

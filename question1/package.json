@@ -1,0 +1,21 @@
+{
+  "name": "week-8-assessment",
+  "version": "1.0.0",
+  "description": "* 1.Instructions:   - Assessment time only one hour and a half.",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server",
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqoor/Week-9-Assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqoor/Week-9-Assessment/issues"
+  },
+  "homepage": "https://github.com/sqoor/Week-9-Assessment#readme"
+}
